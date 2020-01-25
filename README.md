@@ -8,7 +8,7 @@ This project runs on Linux Operating System.
 
 ##Compiling and Running 
 
-```bash
+```bash[![Run on Repl.it](https://repl.it/badge/github/kyoheinagano544/pokemon-skyblue-3d)](https://repl.it/github/kyoheinagano544/pokemon-skyblue-3d)
 $ g++ mainPage.cpp -lGL -lGLU -lglut -o SkyBlue3D && ./SkyBlue3D
 ```
 
